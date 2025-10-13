@@ -1,4 +1,4 @@
-*{
+ght*{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
@@ -218,6 +218,7 @@ footer {
         position: relative;
         top: 100vh;
         left: 10vw;
+        height: 50vh;
     }
 }
 @media (max-width: 1024px) {
@@ -262,3 +263,4 @@ footer {
   }
 
 }
+

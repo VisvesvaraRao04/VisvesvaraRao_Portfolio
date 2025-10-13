@@ -6,15 +6,15 @@
 }
 @font-face {
     font-family: ferrarisans;
-    src: url(../../assets/fonts/font/Ferrari-SansMedium.ttf);
+    src: url(Ferrari-SansMedium.ttf);
 }
 @font-face {
     font-family: productitalicsans;
-    src: url(../../assets/fonts/font/Ferrari-SansRegularItalic.ttf);
+    src: url(Ferrari-SansRegularItalic.ttf);
 }
 body{
     width: 100vw;
-    background-image: url(../../assets/images/f1\ background.jpg);
+    background-image: url(f1\ background.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     display: flex;
@@ -260,4 +260,5 @@ footer {
     /* padding: 6vh 5vw; */
     position: relative;
   }
+
 }

@@ -1,4 +1,4 @@
-ght*{
+*{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
@@ -25,6 +25,7 @@ body{
 }
 #softwaredeveloper{
     color: white;
+    text-align: center;
     position: absolute;
     top: 2vh;
 }
@@ -191,10 +192,12 @@ footer {
         background-size: 150% 300%;
         width: 80%;
         height: auto;
+        justify-content: center;
+        align-items: center;
     }
     #softwaredeveloper{
         font-size: 1em;
-        left: 12vh;
+        text-align: center;
         width: 100%;
         right: 1vh;
     }
@@ -262,7 +265,4 @@ footer {
     /* padding: 6vh 5vw; */
     position: relative;
   }
-
 }
-
-

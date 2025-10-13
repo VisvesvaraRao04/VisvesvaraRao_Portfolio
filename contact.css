@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family: ferrarisans;
-    src: url(../../assets/fonts/font/Ferrari-SansMedium.ttf);
+    src: url(Ferrari-SansMedium.ttf);
 }
 body{
     width: 100vw;
@@ -61,4 +61,5 @@ body::-webkit-scrollbar-track-piece{
     border-radius: 10vh;
     background-color: purple;
     font-weight: lighter;
+
 }

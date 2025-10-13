@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family: ferrarisans;
-    src: url(../../assets/fonts/font/Ferrari-SansMedium.ttf);
+    src: url(Ferrari-SansMedium.ttf);
 }
 body{
     width: 100vw;
@@ -59,7 +59,7 @@ body::-webkit-scrollbar-track-piece{
 #resume1container,#resume2container{
     width: 80%;
     height: 100vw;
-    background-image: url(../../assets/images/visvesvararao\ resume_page-0001.jpg);
+    background-image: url(visvesvararao\ resume_page-0001.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     /* position: absolute;
@@ -71,7 +71,7 @@ body::-webkit-scrollbar-track-piece{
     border: 0.5vh solid royalblue;
 }
 #resume2container{
-    background-image: url(../../assets/images/visvesvararao\ resume_page-0002.jpg);
+    background-image: url(visvesvararao\ resume_page-0002.jpg);
     width: 80%;
     height: 100vw;
     /* position: absolute;
@@ -92,4 +92,5 @@ body::-webkit-scrollbar-track-piece{
     box-shadow: 0vh 0vh 1vh white;
     background-color: crimson;
     color: black;
+
 }

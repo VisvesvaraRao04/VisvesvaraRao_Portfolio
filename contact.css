@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family: ferrarisans;
-    src: url(../../assets/fonts/font/Ferrari-SansMedium.ttf);
+    src: url(./assets/fonts/font/Ferrari-SansMedium.ttf);
 }
 body{
     width: 100vw;

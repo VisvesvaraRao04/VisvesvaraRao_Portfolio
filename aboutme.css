@@ -6,11 +6,11 @@
 }
 @font-face {
     font-family: ferrarisans;
-    src: url(../../assets/fonts/font/Ferrari-SansMedium.ttf);
+    src: url(./assets/fonts/font/Ferrari-SansMedium.ttf);
 }
 @font-face {
     font-family: productitalicsans;
-    src: url(../../assets/fonts/font/Ferrari-SansRegularItalic.ttf);
+    src: url(./assets/fonts/font/Ferrari-SansRegularItalic.ttf);
 }
 body{
     width: 100vw;

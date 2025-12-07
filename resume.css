@@ -58,7 +58,7 @@ body::-webkit-scrollbar-track-piece{
 }
 #resume_frame{
     height: 130vh;
-    width: 60%;
+    width: 90%;
     margin-bottom: 10vh;
 }
 #resume_frame:hover{
